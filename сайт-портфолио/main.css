@@ -2,3 +2,16 @@ body{
 	
 	background-color:violet;
 }
+
+.footer{
+	position: absolute;
+   bottom: 0;
+   width: 100%;
+   height: 120px;
+   background: rgba(14,14,14,0.95);
+   background-color:yellow;
+}
+body{
+font-family: 'Roboto', sans-serif;
+font-family: 'Akronim', cursive;
+}
